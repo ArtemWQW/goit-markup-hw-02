@@ -1,0 +1,225 @@
+    body{font-family: 'Times New Roman', Times, serif;}
+    
+    .header-up{border-bottom: 1px solid  #E7E9FC;}
+
+
+    a{text-decoration: none;}
+
+    ul{list-style: none;}
+
+    .header-logo span{color: #4D5AE5;
+      font-family: Raleway;
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 1.17; /* 116.667% */
+      letter-spacing: -0.02em;
+      text-transform: uppercase;}
+
+    .header-logo{color:#2E2F42;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17; 
+        letter-spacing: 0.02em;
+        text-transform: uppercase;}
+
+
+    .header-studio{color: #2E2F42;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5; /* 150% */
+        letter-spacing: 0.03em;}
+
+    .header-studio:hover,.header-studio:focus{color: #4D5AE5;}
+    .header-studio:active{color:#404BBF;}
+        
+    .header-portfolio{color: #2E2F42;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5; /* 150% */
+        letter-spacing: 0.03em;}
+
+    .header-portfolio:hover,.header-portfolio:focus{color: #4D5AE5;}  
+    
+
+    .header-contacts{color: #2E2F42;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5; /* 150% */
+        letter-spacing: 0.03em;}
+
+    .header-contacts:hover,.header-contacts:focus{color: #4D5AE5;} 
+    
+
+    .header-mail{color: #434455;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5; /* 150% */
+        letter-spacing:0.03em;}
+
+    .header-mail:hover,.header-mail:focus{color: #4D5AE5;}
+    .header-mail:active{color: #404BBF;}   
+
+    .header-tel{color: #434455;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5; /* 150% */
+        letter-spacing: 0.03em;}
+
+    .header-tel:hover, .header-tel:focus{color: #4D5AE5;}
+    .header-tel:active{color: #404BBF;}
+   
+
+/**===============main=====================*/
+
+    .main-hero{background:  #2E2F42;}
+
+    .main-hero-text{color: #FFF;
+        text-align:center;
+        font-family: Roboto;
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07; /* 107.143% */
+        letter-spacing: 0.02em;
+        margin-top: 188px;
+        margin-bottom: 48px;
+        margin-left: 472px;
+        margin-right: 472px;}
+
+    .main-hero-button{border-radius: 4px;
+        background: #4D5AE5;
+        box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+        color:#fff;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500px;
+        line-height: 1.5; /* 150% */
+        letter-spacing:0.03em;
+        margin-left: 800px;
+        margin-right: 580px;
+        margin-bottom: 188px;
+    }
+
+    .main-hero-button:hover,.main-hero-button:focus{background-color:#2E2F42;}
+      
+
+        /**===============body=====================*/
+
+        .visually-hidden {
+            position: absolute;
+            white-space: nowrap;
+            width: 1px;
+            height: 1px;
+            overflow: hidden;
+            border: 0;
+            padding: 0;
+            clip: rect(0 0 0 0);
+            clip-path: inset(50%);
+            margin: -1px;}
+
+    .body-advantages-list{color:#2E2F42;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2; /* 120% */
+        letter-spacing: 0.03em;}
+
+    .body-advantages-text{color:#434455;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5; /* 150% */
+        letter-spacing: 0.03em;}
+
+         /**============team=====================*/
+
+    .team{background-color:#F4F4FD;}
+
+    .team-list{background-color: #fff;}
+
+    .team-image{background-color: #FFF;}
+
+    .team-title{color: #2E2F42;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.1; /* 111.111% */
+        letter-spacing: 0.03em;
+        text-transform: capitalize;}
+
+    .team-list-title{color: #2E2F42;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2; /* 120% */
+        letter-spacing: 0.03em;}
+
+    .team-list-text{color: #434455;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5; /* 150% */
+        letter-spacing: 0.03em;}
+
+
+        /**=================port===============*/
+
+    .port{background-color: #FFF;}    
+
+   .port-title{color: #2E2F42;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11; /* 111.111% */
+        letter-spacing: 0.02em;
+        text-transform: capitalize;}
+
+    .port-list-title{color:#2E2F42;
+        font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        line-height: 1.2; /* 120% */
+        letter-spacing: 0.02em;}
+
+    .port-list-text{color:#434455;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.15; /* 150% */
+        letter-spacing: 0.02em;}
+
+        /**=============foot=================*/
+
+    .foot{background-color:#2E2F42;}
+
+    .foot-logo span{color: #4D5AE5;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.16; /* 116.667% */
+        letter-spacing: 0.03em;
+        text-transform: uppercase;}
+
+    .foot-logo{color: #F4F4FD;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.16; /* 116.667% */
+        letter-spacing: 0.03em;
+        text-transform: uppercase;}
+
+    .foot-text{color:#F4F4FD;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5; /* 150% */
+        letter-spacing: 0.02;}
